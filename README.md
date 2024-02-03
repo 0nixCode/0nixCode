@@ -1,5 +1,6 @@
 # 💫 Sobre mí:
-¡Hola! Soy Jordan, un apasionado programador y hacker ético de 25 años. Mi sed de aprendizaje y mi entusiasmo por contribuir a proyectos emocionantes me impulsan constantemente. ¡Conéctate conmigo para explorar el fascinante mundo del código juntos! 💻✨
+¡Hola Jordan! 👋 Soy apasionado por la ciberseguridad y tengo conocimientos medianos para realizar trabajos de pentesting.
+En este repositorio voy dejando scripts, utilidades de pentesting. Espero te gusten.
 
 
 # 💻 Tecnologías que manejo:
